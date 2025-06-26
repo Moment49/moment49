@@ -5,7 +5,7 @@ I'm a backend engineer and cybersecurity analyst passionate about building secur
 
 ---
 
-| 💡 'Turning ideas into secure, scalable systems — one line of Python at a time.
+> 💡 'Turning ideas into secure, scalable systems — one line of Python at a time.
 
 <!-- Banner -->
 <p align="center">
