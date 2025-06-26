@@ -42,13 +42,13 @@
 ### 🔐 Password Manager API
 > A secure, zero-knowledge vault API that encrypts passwords using client-side derived keys. Uses Django REST Framework, Fernet, and token-based auth.
 **Tech:** Django, DRF, cryptography, Postman  
-🔗 [View Repo]([Password Manager API](https://github.com/Moment49/password-manager-api)
+🔗 [View Repo]([Password Manager API](https://github.com/Moment49/password-manager-api))
 
 
 ### 🌐 Tech Convene
 > An open community platform to discover, register, and showcase tech events — connecting techies around the globe.
 **Tech:** Django, Bootstrap, HTML/CSS, SQLite  
-🔗 [View Repo]([Tech Convene](https://github.com/Moment49/event_ticket_system)
+🔗 [View Repo]([Tech Convene](https://github.com/Moment49/event_ticket_system))
 
 
 ## 🌍 Let's Connect
