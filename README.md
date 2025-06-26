@@ -17,14 +17,14 @@ I'm a backend engineer and cybersecurity analyst passionate about building secur
 
 ---
 
-📊 GitHub Insights
+### 📊 GitHub Insights
 
 
 ![Moment49 Stats](https://github-readme-stats.vercel.app/api?username=Moment49&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
-## 🎯 Mission Statement
+### 🎯 Mission Statement
 
 > **"To use backend engineering as a tool to build inclusive, secure, and scalable digital systems — especially in underserved industries like healthcare and financial inclusion."**
 
