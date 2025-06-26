@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-👋 Hi, I'm **Elvis Ibenacho** , a passionate backend engineer and cybersecurity analyst with 4+ years of experience. I specialize in building secure and scalable APIs using **Python**, **Django**, and **PostgreSQL** — with a strong foundation in **data security and resilience**.
+👋 Hi, I'm **Elvis Ibenacho** , a backend engineer and cybersecurity analyst with 4+ years of experience. I specialize in building secure and scalable APIs using **Python**, **Django**, and **PostgreSQL** — with a strong foundation in **data security and resilience**.
 
 💻 I’m currently enrolled in the **ALX ProDev Backend Engineering Program**, where I collaborate on real-world projects, reinforce CS fundamentals, and strengthen my backend expertise.
 
