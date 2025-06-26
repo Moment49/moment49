@@ -10,7 +10,7 @@
 
 ---
 
-![Moment49 Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Moment49 Stats](https://github-readme-stats.vercel.app/api?username=Moment49&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
@@ -22,33 +22,56 @@
 
 ## 💼 Core Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,django,bash,git,github,docker,bootstrap,html,css,wasm)](https://skillicons.dev)
-<p>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+
+Got it! Here's your `🌱 Currently Exploring` section rewritten to match that exact structure and style, tailored to your ALX backend learning path:
+
+---
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+* 🚀 Learning Backend Engineering with ALX ProDev
+  * Mastering Python for building clean and efficient backend systems.
+  * Developing RESTful APIs using Django and Django REST Framework.
+  * Working with MySQL and PostgreSQL for relational database management.
+  * Containerizing applications using Docker and learning orchestration with Kubernetes.
+  * Exploring DevOps practices including CI/CD, version control, and automated testing.
+  * Implementing asynchronous programming concepts in backend workflows.
+  * Collaborating on projects using Git, Agile methodologies, and open source best practices.
 
+---
+    
+## 🧪 Projects I’m Building
 
-## 📬 Get in Touch
+---
+
+### 🔐 Password Manager API
+> A secure, zero-knowledge vault API that encrypts passwords using client-side derived keys. Uses Django REST Framework, Fernet, and token-based auth.
+
+**Tech:** Django, DRF, cryptography, Postman  
+🔗 [View Repo](#)
+
+### 🌐 Tech Convene
+> An open community platform to discover, register, and showcase tech events — connecting techies around the globe.
+
+**Tech:** Django, Bootstrap, HTML/CSS, SQLite  
+🔗 [Visit Project](#)
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elvisben&show_icons=true&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisben&layout=compact&theme=dracula" height="165"/>
+</p>
+
+---
+
+## 🌍 Let's Connect
 
 - Connect with me on [Twitter](https://twitter.com/)
 - Connect with me on [Linkedin](https://www.linkedin.com/in/elvis-ibenacho/)
-- Connect with me on [GitHub](https://github.com/Moment49)
+- Connect with me on [Gmail](ibenachoelvis49@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
