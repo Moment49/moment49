@@ -1,9 +1,9 @@
-<h1 align="start">Hi, I'm Elvis Ibenacho 👋</h1>
+<h1 align="start">👋 Hi, I'm Elvis Ibenacho</h1>
 
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Moment49/moment49/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2003_33_44%20AM.png" alt="Elvis Ibenacho Banner" />
+  <img src="https://github.com/Moment49/moment49/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2003_33_44%20AM.png" height="150px" alt="Elvis Ibenacho Banner" />
 </p>
 
 
