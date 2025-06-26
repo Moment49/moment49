@@ -1,4 +1,4 @@
-<h3 style="font-size: 40px;">👋 Hi, I'm Elvis Ibenacho</h3>
+<h3 style="font-size: 50px;">👋 Hi, I'm Elvis Ibenacho</h3>
 
 ---
 
