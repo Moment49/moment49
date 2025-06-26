@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Moment49/moment49/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2003_33_44%20AM.png" height="30%" width='100%' alt="Elvis Ibenacho Banner" />
+  <img src="https://github.com/Moment49/moment49/blob/main/WhatsApp%20Image%202023-06-29%20at%203.25.49%20PM%20(1).jpeg" height="30%" width='100%' alt="Elvis Ibenacho Banner" />
 </p>
 
 
@@ -13,7 +13,7 @@ Hi, I'm **Elvis Ibenacho** , a backend engineer and cybersecurity analyst with 4
 
 💻 I’m currently enrolled in the **ALX ProDev Backend Engineering Program**, where I collaborate on real-world projects, reinforce CS fundamentals, and strengthen my backend expertise.
 
-🌍 My *North Star* is to build inclusive and intelligent backend systems that create impact — particularly in the **health** and **fintech** industries.
+🌍 My *North Star* is to build inclusive and intelligent backend systems that create impact.
 
 🔐 With a unique mix of software engineering and cybersecurity skills, I prioritize **security-first development** and deliver APIs that can be trusted.
 
