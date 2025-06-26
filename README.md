@@ -1,4 +1,4 @@
-<p style="font-size:20px">👋 Hi, I'm Elvis Ibenacho</p>
+<p style="font-size: 40px;">👋 Hi, I'm Elvis Ibenacho</p>
 
 ---
 
