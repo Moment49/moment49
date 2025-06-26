@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Moment49/moment49/blob/main/pexels-realtoughcandy-11035474.jpg" height="500px" width='100%' alt="Elvis Ibenacho Banner" />
+  <img src="https://github.com/Moment49/moment49/blob/main/pexels-realtoughcandy-11035474.jpg" height="300px" width='100%' alt="Elvis Ibenacho Banner" />
 </p>
 
 
