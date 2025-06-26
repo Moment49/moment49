@@ -1,6 +1,18 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/elvisben/elvisben/assets/banner.png" alt="Elvis Ibenacho Banner" />
+</p>
+
+<h1 align="center">Hi, I'm Elvis Ibenacho 👋</h1>
+
+<p align="center">
+  <em><strong>Backend Engineer | Cybersecurity Analyst | ALX ProDev Learner</strong></em><br>
+  <strong>Turning ideas into secure, scalable systems — one line of Python at a time.</strong>
+</p>
+
 ## 🧠 About Me
 
-👋 Hi, I'm **Elvis Ibenacho** , a backend engineer and cybersecurity analyst with 4+ years of experience. I specialize in building secure and scalable APIs using **Python**, **Django**, and **PostgreSQL** — with a strong foundation in **data security and resilience**.
+Hi, I'm **Elvis Ibenacho** , a backend engineer and cybersecurity analyst with 4+ years of experience. I specialize in building secure and scalable APIs using **Python**, **Django**, and **PostgreSQL** — with a strong foundation in **data security and resilience**.
 
 💻 I’m currently enrolled in the **ALX ProDev Backend Engineering Program**, where I collaborate on real-world projects, reinforce CS fundamentals, and strengthen my backend expertise.
 
