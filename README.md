@@ -9,7 +9,7 @@ I'm a backend engineer and cybersecurity analyst passionate about building secur
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Moment49/moment49/blob/main/pexels-realtoughcandy-11035474.jpg" height="300px" width='100%' alt="Elvis Ibenacho Banner" />
+  <img src="https://raw.githubusercontent.com/Moment49/moment49/refs/heads/main/why-python-is-the-perfect-choice-for-artificial-intelligence-and-machine-learning.webp" height="300px" width='100%' alt="Elvis Ibenacho Banner" />
 </p>
 
 ---
