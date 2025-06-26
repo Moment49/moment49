@@ -1,14 +1,11 @@
+<h1 align="center">Hi, I'm Elvis Ibenacho 👋</h1>
+
+
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/Moment49/moment49/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2003_33_44%20AM.png" alt="Elvis Ibenacho Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Elvis Ibenacho 👋</h1>
-
-<p align="center">
-  <em><strong>Backend Engineer | Cybersecurity Analyst | ALX ProDev Learner</strong></em><br>
-  <strong>Turning ideas into secure, scalable systems — one line of Python at a time.</strong>
-</p>
 
 ## 🧠 About Me
 
