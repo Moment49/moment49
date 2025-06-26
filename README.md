@@ -8,24 +8,19 @@
 
 🔐 With a unique mix of software engineering and cybersecurity skills, I prioritize **security-first development** and deliver APIs that can be trusted.
 
----
 
 ![Moment49 Stats](https://github-readme-stats.vercel.app/api?username=Moment49&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
----
 
 ## 🎯 Mission Statement
 
 > **"To use backend engineering as a tool to build inclusive, secure, and scalable digital systems — especially in underserved industries like healthcare and financial inclusion."**
 
----
 
 ## 💼 Core Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,django,bash,git,github,docker,bootstrap,html,css,wasm)](https://skillicons.dev)
 
-Got it! Here's your `🌱 Currently Exploring` section rewritten to match that exact structure and style, tailored to your ALX backend learning path:
 
----
 
 ## 🌱 Currently Exploring
 
@@ -38,11 +33,11 @@ Got it! Here's your `🌱 Currently Exploring` section rewritten to match that e
   * Implementing asynchronous programming concepts in backend workflows.
   * Collaborating on projects using Git, Agile methodologies, and open source best practices.
 
----
+
     
 ## 🧪 Projects I’m Building
 
----
+
 
 ### 🔐 Password Manager API
 > A secure, zero-knowledge vault API that encrypts passwords using client-side derived keys. Uses Django REST Framework, Fernet, and token-based auth.
@@ -56,7 +51,7 @@ Got it! Here's your `🌱 Currently Exploring` section rewritten to match that e
 **Tech:** Django, Bootstrap, HTML/CSS, SQLite  
 🔗 [Visit Project](#)
 
----
+
 
 ## 📊 GitHub Insights
 
