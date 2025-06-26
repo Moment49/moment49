@@ -11,11 +11,6 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moment49&show_icons=true&theme=dracula" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moment49&layout=compact&theme=dracula" height="165"/>
-</p>
-
 
 ![Moment49 Stats](https://github-readme-stats.vercel.app/api?username=Moment49&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
