@@ -3,13 +3,13 @@
 
 I'm a backend engineer and cybersecurity analyst passionate about building secure, scalable systems. I enjoy solving real-world problems with Python, Django, Django RestFramework, MySQL and PostgreSQL — and I'm currently deepening my expertise through the **ALX ProDev Backend Engineering Program**. My focus is on working on open-source projects delivering backend solutions that are efficient, resilient, and security-first.
 
+> 💡 'Turning ideas into secure, scalable systems — one line of Python at a time.
 ---
 
-> 💡 'Turning ideas into secure, scalable systems — one line of Python at a time.
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moment49/moment49/refs/heads/main/why-python-is-the-perfect-choice-for-artificial-intelligence-and-machine-learning.webp" height="300px" width='100%' alt="Elvis Ibenacho Banner" />
+  <img src="https://raw.githubusercontent.com/Moment49/moment49/refs/heads/main/why-python-is-the-perfect-choice-for-artificial-intelligence-and-machine-learning.webp" height="200px" width='100%' alt="Elvis Ibenacho Banner" />
 </p>
 
 ---
