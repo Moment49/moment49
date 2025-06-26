@@ -31,12 +31,12 @@ I'm a backend engineer and cybersecurity analyst passionate about building secur
 
 ---
 
-## 💼 Core Technologies & Tools
+### 💼 Core Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,django,bash,git,github,docker,bootstrap,html,css)](https://skillicons.dev)
 
 ---
 
-## 🌱 Currently Exploring
+### 🌱 Currently Exploring
 
 * 🚀 Learning Backend Engineering with ALX ProDev
   * Mastering Python for building clean and efficient backend systems.
@@ -49,23 +49,23 @@ I'm a backend engineer and cybersecurity analyst passionate about building secur
 
 ---
 
-## 🧪 Projects I’m Building
+### 🧪 Projects I’m Building
 
 
-### 🔐 Password Manager API
+#### 🔐 Password Manager API
 > A secure, zero-knowledge vault API that encrypts passwords using client-side derived keys. Uses Django REST Framework, Fernet, and token-based auth.
 **Tech:** Django, DRF, cryptography, Postman  
 🔗 [View Repo]([Password Manager API](https://github.com/Moment49/password-manager-api))
 
 
-### 🌐 Tech Convene
+#### 🌐 Tech Convene
 > An open community platform to discover, register, and showcase tech events — connecting techies around the globe.
 **Tech:** Django, Bootstrap, HTML/CSS, SQLite  
 🔗 [View Repo]([Tech Convene](https://github.com/Moment49/event_ticket_system))
 
 ---
 
-## 🌍 Let's Connect
+### 🌍 Let's Connect
 
 - Connect with me on [Twitter](https://twitter.com/)
 - Connect with me on [Linkedin](https://www.linkedin.com/in/elvis-ibenacho/)
