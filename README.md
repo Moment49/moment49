@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/elvisben/elvisben/assets/banner.png" alt="Elvis Ibenacho Banner" />
+  <img src="[https://github.com/elvisben/elvisben/assets/banner.png](https://github.com/Moment49/moment49/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2003_33_44%20AM.png)" alt="Elvis Ibenacho Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Elvis Ibenacho 👋</h1>
