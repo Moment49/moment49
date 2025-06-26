@@ -4,7 +4,7 @@
 I'm a backend engineer and cybersecurity analyst passionate about building secure, scalable systems. I enjoy solving real-world problems with Python, Django, Django RestFramework, MySQL and PostgreSQL — and I'm currently deepening my expertise through the **ALX ProDev Backend Engineering Program**. My focus is on working on open-source projects delivering backend solutions that are efficient, resilient, and security-first.
 
 
-> 💡 'Turning ideas into secure, scalable systems — one line of Python at a time.
+> 💡 Turning ideas into secure, scalable systems — one line of Python at a time.
 
 
 ---
