@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Moment49/moment49/blob/main/WhatsApp%20Image%202023-06-29%20at%203.25.49%20PM%20(1).jpeg" height="30%" width='100%' alt="Elvis Ibenacho Banner" />
+  <img src="https://github.com/Moment49/moment49/blob/main/WhatsApp%20Image%202023-06-29%20at%203.25.49%20PM%20(1).jpeg" height="100px" width='100%' alt="Elvis Ibenacho Banner" />
 </p>
 
 
