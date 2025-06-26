@@ -8,7 +8,14 @@
 
 🔐 With a unique mix of software engineering and cybersecurity skills, I prioritize **security-first development** and deliver APIs that can be trusted.
 
--
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moment49&show_icons=true&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moment49&layout=compact&theme=dracula" height="165"/>
+</p>
+
 
 ![Moment49 Stats](https://github-readme-stats.vercel.app/api?username=Moment49&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -18,10 +25,8 @@
 > **"To use backend engineering as a tool to build inclusive, secure, and scalable digital systems — especially in underserved industries like healthcare and financial inclusion."**
 
 
-
 ## 💼 Core Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,django,bash,git,github,docker,bootstrap,html,css,wasm)](https://skillicons.dev)
-
 
 
 ## 🌱 Currently Exploring
@@ -36,22 +41,19 @@
   * Collaborating on projects using Git, Agile methodologies, and open source best practices.
 
 
-    
 ## 🧪 Projects I’m Building
-
 
 
 ### 🔐 Password Manager API
 > A secure, zero-knowledge vault API that encrypts passwords using client-side derived keys. Uses Django REST Framework, Fernet, and token-based auth.
-
 **Tech:** Django, DRF, cryptography, Postman  
 🔗 [View Repo]([Password Manager API](https://github.com/Moment49/password-manager-api)
 
+
 ### 🌐 Tech Convene
 > An open community platform to discover, register, and showcase tech events — connecting techies around the globe.
-
 **Tech:** Django, Bootstrap, HTML/CSS, SQLite  
-🔗🔗 [View Repo]([Tech Convene](https://github.com/Moment49/event_ticket_system)
+🔗 [View Repo]([Tech Convene](https://github.com/Moment49/event_ticket_system)
 
 
 ## 🌍 Let's Connect
