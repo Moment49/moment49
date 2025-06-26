@@ -1,4 +1,4 @@
-<h1 align="start">👋 Hi, I'm Elvis Ibenacho</h1>
+👋 Hi, I'm Elvis Ibenacho
 
 ---
 
@@ -6,7 +6,7 @@ I'm a backend engineer and cybersecurity analyst passionate about building secur
 
 ---
 
-## 💡 Turning ideas into secure, scalable systems — one line of Python at a time.
+💡 Turning ideas into secure, scalable systems — one line of Python at a time.
 
 <!-- Banner -->
 <p align="center">
@@ -15,7 +15,7 @@ I'm a backend engineer and cybersecurity analyst passionate about building secur
 
 ---
 
-## 📊 GitHub Insights
+📊 GitHub Insights
 
 
 ![Moment49 Stats](https://github-readme-stats.vercel.app/api?username=Moment49&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
